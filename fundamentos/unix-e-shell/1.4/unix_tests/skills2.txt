@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+comida
+bebida
+carro
+casa
+aviao

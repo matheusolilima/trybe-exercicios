@@ -1,0 +1,10 @@
+Internet
+Unix
+Bash
+comida
+bebida
+carro
+casa
+aviao
+HTML
+CSS
